@@ -1,1 +1,1 @@
-web: gunicorn realpython.wsgi --log-file -
+web: gunicorn carinventory.wsgi --log-file -
